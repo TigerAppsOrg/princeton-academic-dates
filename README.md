@@ -16,28 +16,28 @@ Outline of project:
 Using the events above, and by trying to provide for each its title, date (start and end, if it is a range or period), and then tags, like maybe "start", "end", "add-drop", "classes", "midterms", "readingWeek", "deansDate", "finals", "graduation", "commencement", "registration", etc.
 
 Here is what the output could look like, taking Spring 2023 as an example which are the dates above:
+```
 {
 "acadyear": 2019,
 "season": "fall",
 "term": "F2019",
 "events": [
-{
-"title": "Undergraduate Add/Drop Begins at 6:30 am",
-"date": "2020-01-23",
-"tags": ["start", "add-drop"]
-},
-{
-"title": "Spring Term Classes Begin at 8 am",
-"date": "2020-01-30",
-"tags": ["start", "classes"]
-},
-{
-"title": "Undergraduate Deadline to Add/Drop Courses Without a Fee Ends at 5:00 pm",
-"date": "2020-02-10",
-"tags": ["end", "add-drop"]
-},
+  {
+    "title": "Undergraduate Add/Drop Begins at 6:30 am",
+    "date": "2020-01-23",
+    "tags": ["start", "add-drop"]
+  },
+  {
+    "title": "Spring Term Classes Begin at 8 am",
+    "date": "2020-01-30",
+    "tags": ["start", "classes"]
+  },
+  {
+    "title": "Undergraduate Deadline to Add/Drop Courses Without a Fee Ends at 5:00 pm",
+    "date": "2020-02-10",
+    "tags": ["end", "add-drop"]
+  },
 ...
-
 ```
 or something like that
 
