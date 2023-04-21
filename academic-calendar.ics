@@ -1,0 +1,1957 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:princeton-site-builder
+X-WR-CALNAME:Office of the Registrar
+BEGIN:VEVENT
+UID:ps_events:2941:delta:0
+DTSTART;VALUE=DATE:20220422
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20220423
+URL:https://registrar.princeton.edu/events/2022/graduate-students-deadline-
+ spring-term-course-changes
+SUMMARY:Graduate Students Deadline for Spring Term Course Changes
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20190301T161447Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:4551:delta:0
+DTSTART;VALUE=DATE:20220422
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20220423
+URL:https://registrar.princeton.edu/events/2022/last-day-regularly-schedule
+ d-classes
+SUMMARY:Last Day of Regularly Scheduled Classes
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20210629T133915Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:2856:delta:0
+DTSTART;VALUE=DATE:20220425
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20220426
+URL:https://registrar.princeton.edu/events/2022/reading-period-begins
+SUMMARY:Reading Period Begins
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20190301T161530Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:2866:delta:0
+DTSTART;VALUE=DATE:20220425
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20220426
+URL:https://registrar.princeton.edu/events/2022/deadline-submitting-senior-
+ thesis
+SUMMARY:Deadline for Submitting Senior Thesis
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20190301T161729Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:2926:delta:0
+DTSTART;VALUE=DATE:20220425
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20220426
+URL:https://registrar.princeton.edu/events/2022/graduate-students-fall-term
+ -course-selection-begins
+SUMMARY:Graduate Students Fall Term Course Selection Begins
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20190311T154702Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:4561:delta:0
+DTSTART;VALUE=DATE:20220425
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20220426
+URL:https://registrar.princeton.edu/events/2022/undergraduate-adddrop-fall-
+ term-courses-begins-630-am
+SUMMARY:Undergraduate Add/Drop For Fall Term Courses Begins at 6:30 am
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20211109T205552Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:2871:delta:0
+DTSTART;VALUE=DATE:20220426
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20220427
+URL:https://registrar.princeton.edu/events/2022/deadline-submitting-junior-
+ independent-work
+SUMMARY:Deadline for Submitting Junior Independent Work
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20190301T161845Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:4566:delta:0
+DTSTART;VALUE=DATE:20220429
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20220430
+URL:https://registrar.princeton.edu/events/2022/undergraduate-adddrop-fall-
+ term-courses-ends-1159-pm
+SUMMARY:Undergraduate Add/Drop For Fall Term Courses Ends at 11:59 pm
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20211109T205615Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:3911:delta:0
+DTSTART;VALUE=DATE:20220430
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20220501
+URL:https://registrar.princeton.edu/events/2022/deadline-graduate-student-r
+ eenrollment
+SUMMARY:Deadline for Graduate Student Reenrollment
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20190916T164812Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:2861:delta:0
+DTSTART;VALUE=DATE:20220503
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20220504
+URL:https://registrar.princeton.edu/events/2022/reading-period-ends
+SUMMARY:Reading Period Ends
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20190301T161947Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:2876:delta:0
+DTSTART;VALUE=DATE:20220503
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20220504
+URL:https://registrar.princeton.edu/events/2022/deans-date-deadline-student
+ -submission-written-work
+SUMMARY:Dean's Date: Deadline for Student Submission of Written Work 
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20190301T162152Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:2931:delta:0
+DTSTART;VALUE=DATE:20220503
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20220504
+URL:https://registrar.princeton.edu/events/2022/graduate-students-course-se
+ lection-ends-1159-pm-reopens-august-1-2022
+SUMMARY:Graduate Students Course Selection Ends at 11:59 pm (reopens August
+  1\, 2022)
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20190918T132033Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:2886:delta:0
+DTSTART;VALUE=DATE:20220504
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20220506
+URL:https://registrar.princeton.edu/events/2022/senior-departmentalcomprehe
+ nsive-examinations
+SUMMARY:Senior Departmental/Comprehensive Examinations
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20190311T154736Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:4556:delta:0
+DTSTART;VALUE=DATE:20220504
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20220505
+URL:https://registrar.princeton.edu/events/2022/take-home-final-exam-period
+ -begins
+SUMMARY:Take-Home Final Exam Period Begins
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20210916T195359Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:2881:delta:0
+DTSTART;VALUE=DATE:20220506
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20220513
+URL:https://registrar.princeton.edu/events/2022/spring-term-final-examinati
+ ons
+SUMMARY:Spring Term Final Examinations
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20190312T163937Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:2971:delta:0
+DTSTART;VALUE=DATE:20220510
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20220511
+URL:https://registrar.princeton.edu/events/2022/faculty-deadline-submission
+ -grades-undergraduate-courses-no-scheduled-final-examination
+SUMMARY:Faculty Deadline for Submission of Grades for Undergraduate Courses
+  with no Scheduled Final Examination or Take-Home Exercise
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20190301T162508Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:2966:delta:0
+DTSTART;VALUE=DATE:20220511
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20220512
+URL:https://registrar.princeton.edu/events/2022/deadline-submission-take-ho
+ me-exams-0
+SUMMARY:Deadline for Submission of Take-Home Exams
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20220118T160023Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:2836:delta:0
+DTSTART;VALUE=DATE:20220512
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20220513
+URL:https://registrar.princeton.edu/events/2022/last-day-phd-general-examin
+ ations-0
+SUMMARY:Last day of Ph.D. General Examinations 
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20190301T162659Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:2891:delta:0
+DTSTART;VALUE=DATE:20220512
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20220513
+URL:https://registrar.princeton.edu/events/2022/faculty-deadline-submission
+ -senior-thesis-and-senior-comprehensive-grades
+SUMMARY:Faculty Deadline for Submission of Senior Thesis and Senior Compreh
+ ensive Grades
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20190301T162605Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:2896:delta:0
+DTSTART;VALUE=DATE:20220516
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20220517
+URL:https://registrar.princeton.edu/events/2022/faculty-deadline-submission
+ -graduate-course-grades
+SUMMARY:Faculty Deadline for Submission of Graduate Course Grades
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20220208T184004Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:2936:delta:0
+DTSTART;VALUE=DATE:20220516
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20220517
+URL:https://registrar.princeton.edu/events/2022/faculty-deadline-submission
+ -grades-undergraduate-courses-0
+SUMMARY:Faculty Deadline for Submission of Grades for Undergraduate Courses
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20220208T142953Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:2901:delta:0
+DTSTART;VALUE=DATE:20220517
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20220518
+URL:https://registrar.princeton.edu/events/2022/faculty-deadline-submission
+ -grades-junior-independent-work-0
+SUMMARY:Faculty Deadline for Submission of Grades for Junior Independent Wo
+ rk
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20190301T162907Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:2976:delta:0
+DTSTART;VALUE=DATE:20220518
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20220519
+URL:https://registrar.princeton.edu/events/2022/honors-due-registrar-1200pm
+SUMMARY:Honors Due to Registrar at 12:00pm
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20190301T201444Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:2906:delta:0
+DTSTART;VALUE=DATE:20220522
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20220523
+URL:https://registrar.princeton.edu/events/2022/baccalaureate
+SUMMARY:Baccalaureate
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20190301T163037Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:2911:delta:0
+DTSTART;VALUE=DATE:20220523
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20220524
+URL:https://registrar.princeton.edu/events/2022/class-day
+SUMMARY:Class Day
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20190301T163125Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:2916:delta:0
+DTSTART;VALUE=DATE:20220523
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20220524
+URL:https://registrar.princeton.edu/events/2022/graduate-school-hooding-and
+ -recognition-ceremony
+SUMMARY:Graduate School Hooding and Recognition Ceremony
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20220401T155539Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:2921:delta:0
+DTSTART;VALUE=DATE:20220524
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20220525
+URL:https://registrar.princeton.edu/events/2022/commencement-day
+SUMMARY:Commencement Day
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20190301T163246Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:2986:delta:0
+DTSTART;VALUE=DATE:20220803
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20220804
+URL:https://registrar.princeton.edu/events/2022/continuing-graduate-student
+ -fall-term-course-selection-reopens-700am
+SUMMARY:Continuing Graduate Student Fall Term Course Selection reopens at 7
+ :00am
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20220623T135932Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:3091:delta:0
+DTSTART;VALUE=DATE:20220803
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20220804
+URL:https://registrar.princeton.edu/events/2022/continuing-graduate-student
+ -academic-year-sign-period-begins-700am
+SUMMARY:Continuing Graduate Student Academic Year Sign-In Period Begins at 
+ 7:00am
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20220623T135915Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:3896:delta:0
+DTSTART;VALUE=DATE:20220826
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20220827
+URL:https://registrar.princeton.edu/events/2022/new-graduate-student-academ
+ ic-year-sign-period-begins-700am
+SUMMARY:New Graduate Student Academic Year Sign-In Period Begins at 7:00am
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20220603T182123Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:3901:delta:0
+DTSTART;VALUE=DATE:20220826
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20220827
+URL:https://registrar.princeton.edu/events/2022/new-graduate-student-fall-t
+ erm-course-selection-opens-700am
+SUMMARY:New Graduate Student Fall Term Course Selection opens at 7:00am
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20220603T181813Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:2991:delta:0
+DTSTART;VALUE=DATE:20220829
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20220830
+URL:https://registrar.princeton.edu/events/2022/undergraduate-academic-year
+ -sign-period-begins-730-am
+SUMMARY:Undergraduate Academic Year Sign-In Period Begins at 7:30 am
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20190301T171213Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:3181:delta:0
+DTSTART;VALUE=DATE:20220831
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20220901
+URL:https://registrar.princeton.edu/events/2022/graduate-school-opening-add
+ ressorientation
+SUMMARY:Graduate School Opening Address/Orientation
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20190916T161822Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:5036:delta:0
+DTSTART;VALUE=DATE:20220902
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20220903
+URL:https://registrar.princeton.edu/events/2022/undergraduate-first-year-st
+ udent-fall-term-course-selection
+SUMMARY:Undergraduate First-Year Student Fall Term Course Selection
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20220408T174403Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:3006:delta:0
+DTSTART;VALUE=DATE:20220904
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20220905
+URL:https://registrar.princeton.edu/events/2022/opening-exercises-universit
+ y-chapel
+LOCATION:University Chapel
+SUMMARY:Opening Exercises\, University Chapel
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20190301T171318Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:3001:delta:0
+DTSTART;VALUE=DATE:20220905
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20220906
+URL:https://registrar.princeton.edu/events/2022/undergraduate-academic-year
+ -sign-period-ends-1159-pm
+SUMMARY:Undergraduate Academic Year Sign-In Period Ends at 11:59 pm
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20190301T171631Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:3186:delta:0
+DTSTART;VALUE=DATE:20220905
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20220906
+URL:https://registrar.princeton.edu/events/2022/labor-day-holiday
+SUMMARY:Labor Day Holiday
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20190301T172340Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:3011:delta:0
+DTSTART;VALUE=DATE:20220906
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20220907
+URL:https://registrar.princeton.edu/events/2022/fall-term-classes-begin-8-a
+ m
+SUMMARY:Fall Term Classes Begin at 8 am
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20210730T163958Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:3016:delta:0
+DTSTART;VALUE=DATE:20220906
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20220907
+URL:https://registrar.princeton.edu/events/2022/undergraduate-adddrop-begin
+ s-630-am
+SUMMARY:Undergraduate Add/Drop Begins at  6:30 am
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20220608T154407Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:3096:delta:0
+DTSTART;VALUE=DATE:20220920
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20220921
+URL:https://registrar.princeton.edu/events/2022/undergraduate-deadline-addd
+ rop-courses-without-fee-ends-1159-pm-0
+SUMMARY:Undergraduate Deadline to Add/Drop Courses Without a Fee Ends at 11
+ :59 pm
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20190311T155000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:3021:delta:0
+DTSTART;VALUE=DATE:20220926
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20220927
+URL:https://registrar.princeton.edu/events/2022/first-day-phd-general-exami
+ nations-1
+SUMMARY:First day of Ph.D. General Examinations 
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20190301T174043Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:3031:delta:0
+DTSTART;VALUE=DATE:20221010
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20221015
+URL:https://registrar.princeton.edu/events/2022/midterm-examination-week
+SUMMARY:Midterm Examination Week 
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20190301T180740Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:3026:delta:0
+DTSTART;VALUE=DATE:20221015
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20221016
+URL:https://registrar.princeton.edu/events/2022/last-day-phd-general-examin
+ ations-1
+SUMMARY:Last day of Ph.D. General Examinations 
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20190301T180903Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:3036:delta:0
+DTSTART;VALUE=DATE:20221015
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20221016
+URL:https://registrar.princeton.edu/events/2022/fall-recess-begins
+SUMMARY:Fall Recess Begins
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20190301T181012Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:3106:delta:0
+DTSTART;VALUE=DATE:20221023
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20221024
+URL:https://registrar.princeton.edu/events/2022/fall-recess-ends
+SUMMARY:Fall Recess Ends
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20190301T181113Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:3041:delta:0
+DTSTART;VALUE=DATE:20221024
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20221025
+URL:https://registrar.princeton.edu/events/2022/faculty-deadline-reporting-
+ fall-term-midterm-grades-due-1159-pm
+SUMMARY:Faculty Deadline for Reporting Fall Term Midterm Grades Due at 11:5
+ 9 pm
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20190311T155041Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:3101:delta:0
+DTSTART;VALUE=DATE:20221024
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20221025
+URL:https://registrar.princeton.edu/events/2022/classes-resume-0
+SUMMARY:Classes Resume 
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20190301T181208Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:3111:delta:0
+DTSTART;VALUE=DATE:20221024
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20221025
+URL:https://registrar.princeton.edu/events/2022/undergraduate-selection-pdf
+ -option-begins-600-am-0
+SUMMARY:Undergraduate Selection of P/D/F Option begins at 6:00 am
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20190301T181359Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:3166:delta:0
+DTSTART;VALUE=DATE:20221111
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20221112
+URL:https://registrar.princeton.edu/events/2022/undergraduate-deadline-drop
+ -fall-term-courses-or-select-pdf-option-ends-1159-pm
+SUMMARY:Undergraduate Deadline to Drop Fall Term Courses or Select P/D/F Op
+ tion Ends at 11:59 pm
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20210922T192946Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:3116:delta:0
+DTSTART;VALUE=DATE:20221122
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20221123
+URL:https://registrar.princeton.edu/events/2022/thanksgiving-recess-begins-
+ after-last-class
+SUMMARY:Thanksgiving Recess Begins after last class
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20190301T182814Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:3121:delta:0
+DTSTART;VALUE=DATE:20221127
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20221128
+URL:https://registrar.princeton.edu/events/2022/thanksgiving-recess-ends
+SUMMARY:Thanksgiving Recess Ends
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20190301T182930Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:3126:delta:0
+DTSTART;VALUE=DATE:20221128
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20221129
+URL:https://registrar.princeton.edu/events/2022/classes-resume-after-thanks
+ giving-recess
+SUMMARY:Classes Resume after Thanksgiving Recess
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20190301T183006Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:3046:delta:0
+DTSTART;VALUE=DATE:20221129
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20221130
+URL:https://registrar.princeton.edu/events/2022/senior-spring-term-course-s
+ election-begins-730-am-and-ends-1159-pm
+SUMMARY:Senior Spring Term Course Selection Begins at 7:30 am and Ends at 1
+ 1:59 pm
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20190311T155230Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:3131:delta:0
+DTSTART;VALUE=DATE:20221130
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20221201
+URL:https://registrar.princeton.edu/events/2022/junior-spring-term-course-s
+ election-begins-730-am-and-ends-1159-pm
+SUMMARY:Junior Spring Term Course Selection Begins at 7:30 am and Ends at 1
+ 1:59 pm
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20190311T155336Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:3051:delta:0
+DTSTART;VALUE=DATE:20221201
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20221202
+URL:https://registrar.princeton.edu/events/2022/sophomore-spring-term-cours
+ e-selection-begins-730-am-and-ends-1159-pm
+SUMMARY:Sophomore Spring Term Course Selection Begins at 7:30 am and Ends a
+ t 11:59 pm
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20190311T155449Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:3136:delta:0
+DTSTART;VALUE=DATE:20221202
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20221203
+URL:https://registrar.princeton.edu/events/2022/first-year-student-spring-t
+ erm-course-selection-begins-730-am-and-ends-1159-pm
+SUMMARY:First-Year Student Spring Term Course Selection Begins at 7:30 am a
+ nd Ends at 11:59 pm
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20190311T155528Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:2996:delta:0
+DTSTART;VALUE=DATE:20221208
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20221209
+URL:https://registrar.princeton.edu/events/2022/graduate-student-deadline-f
+ all-term-course-changes-ends-1159-pm
+SUMMARY:Graduate Student Deadline for Fall Term Course Changes Ends at 11:5
+ 9 pm
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20190311T155607Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:5046:delta:0
+DTSTART;VALUE=DATE:20221208
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20221209
+URL:https://registrar.princeton.edu/events/2022/last-day-scheduled-classes
+SUMMARY:Last Day of Scheduled Classes
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20220802T203316Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:3071:delta:0
+DTSTART;VALUE=DATE:20221209
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20221210
+URL:https://registrar.princeton.edu/events/2022/reading-period-begins-0
+SUMMARY:Reading Period Begins
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20190301T183705Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:3161:delta:0
+DTSTART;VALUE=DATE:20221209
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20221210
+URL:https://registrar.princeton.edu/events/2022/graduate-students-spring-te
+ rm-course-selection-begins-730-am
+SUMMARY:Graduate Students Spring Term Course Selection Begins at 7:30 am
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20190301T183807Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:3146:delta:0
+DTSTART;VALUE=DATE:20221216
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20221217
+URL:https://registrar.princeton.edu/events/2022/reading-period-ends-0
+SUMMARY:Reading Period Ends
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20190301T184103Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:3151:delta:0
+DTSTART;VALUE=DATE:20221216
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20221217
+URL:https://registrar.princeton.edu/events/2022/deans-date-deadline-student
+ -submission-written-work-0
+SUMMARY:Dean's Date: Deadline for Student Submission of Written Work 
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20190301T184220Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:3081:delta:0
+DTSTART;VALUE=DATE:20221217
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20221224
+URL:https://registrar.princeton.edu/events/2022/fall-term-final-examination
+ s
+SUMMARY:Fall Term Final Examinations
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20190312T164038Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:3156:delta:0
+DTSTART;VALUE=DATE:20221222
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20221223
+URL:https://registrar.princeton.edu/events/2022/deadline-submission-take-ho
+ me-exams
+SUMMARY:Deadline for Submission of Take-Home Exams
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20220121T194750Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:3171:delta:0
+DTSTART;VALUE=DATE:20221223
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20221224
+URL:https://registrar.princeton.edu/events/2022/faculty-deadline-submission
+ -grades-undergraduate-courses-no-scheduled-final-exam-or
+SUMMARY:Faculty Deadline for Submission of Grades for Undergraduate Courses
+  with no Scheduled Final Exam or Take-Home Exercises
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20190301T184605Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:3086:delta:0
+DTSTART;VALUE=DATE:20230109
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20230110
+URL:https://registrar.princeton.edu/events/2023/faculty-deadline-submission
+ -grades-graduate-courses
+SUMMARY:Faculty Deadline for Submission of Grades for Graduate Courses
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20220224T211010Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:3191:delta:0
+DTSTART;VALUE=DATE:20230109
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20230110
+URL:https://registrar.princeton.edu/events/2023/faculty-deadline-submission
+ -grades-undergraduate-courses
+SUMMARY:Faculty Deadline for Submission of Grades for Undergraduate Courses
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20220224T210925Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:3056:delta:0
+DTSTART;VALUE=DATE:20230116
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20230117
+URL:https://registrar.princeton.edu/events/2023/first-day-wintersession
+SUMMARY:First day of Wintersession 
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20190301T184838Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:3066:delta:0
+DTSTART;VALUE=DATE:20230116
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20230117
+URL:https://registrar.princeton.edu/events/2023/first-day-phd-general-exami
+ nations
+SUMMARY:First day of Ph.D. General Examinations 
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20190301T184707Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:3076:delta:0
+DTSTART;VALUE=DATE:20230117
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20230118
+URL:https://registrar.princeton.edu/events/2023/undergraduate-deadline-subm
+ itting-junior-independent-work
+SUMMARY:Undergraduate Deadline for Submitting Junior Independent Work
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20220224T211133Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:3176:delta:0
+DTSTART;VALUE=DATE:20230123
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20230124
+URL:https://registrar.princeton.edu/events/2023/faculty-deadline-submission
+ -grades-junior-independent-work
+SUMMARY:Faculty Deadline for Submission of Grades for Junior Independent Wo
+ rk
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20220224T211503Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:3201:delta:0
+DTSTART;VALUE=DATE:20230123
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20230124
+URL:https://registrar.princeton.edu/events/2023/undergraduate-adddrop-begin
+ s-630-am-0
+SUMMARY:Undergraduate Add/Drop Begins at 6:30 am
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20220418T193747Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:3061:delta:0
+DTSTART;VALUE=DATE:20230129
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20230130
+URL:https://registrar.princeton.edu/events/2023/last-day-wintersession
+SUMMARY:Last day of Wintersession
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20190301T185344Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:3196:delta:0
+DTSTART;VALUE=DATE:20230130
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20230131
+URL:https://registrar.princeton.edu/events/2023/spring-term-classes-begin-8
+ -am
+SUMMARY:Spring Term Classes Begin at 8 am
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20210730T164113Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:3141:delta:0
+DTSTART;VALUE=DATE:20230204
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20230205
+URL:https://registrar.princeton.edu/events/2023/last-day-phd-general-examin
+ ations
+SUMMARY:Last day of Ph.D. General Examinations 
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20190301T185422Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:3351:delta:0
+DTSTART;VALUE=DATE:20230210
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20230211
+URL:https://registrar.princeton.edu/events/2023/undergraduate-deadline-addd
+ rop-courses-without-fee-ends-500-pm
+SUMMARY:Undergraduate Deadline to Add/Drop Courses Without a Fee Ends at 5:
+ 00 pm
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20230120T152328Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:3206:delta:0
+DTSTART;VALUE=DATE:20230306
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20230311
+URL:https://registrar.princeton.edu/events/2023/spring-midterm-examination-
+ week
+SUMMARY:Spring Midterm Examination Week
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20190301T190528Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:3211:delta:0
+DTSTART;VALUE=DATE:20230311
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20230312
+URL:https://registrar.princeton.edu/events/2023/spring-recess-begins
+SUMMARY:Spring Recess Begins
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20190301T190627Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:3216:delta:0
+DTSTART;VALUE=DATE:20230319
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20230320
+URL:https://registrar.princeton.edu/events/2023/spring-recess-ends
+SUMMARY:Spring Recess Ends
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20190301T190729Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:3221:delta:0
+DTSTART;VALUE=DATE:20230320
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20230321
+URL:https://registrar.princeton.edu/events/2023/faculty-deadline-reporting-
+ spring-term-midterm-grades
+SUMMARY:Faculty Deadline for Reporting Spring Term Midterm Grades
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20190301T191046Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:3361:delta:0
+DTSTART;VALUE=DATE:20230320
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20230321
+URL:https://registrar.princeton.edu/events/2023/classes-resume
+SUMMARY:Classes Resume
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20190301T190842Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:3366:delta:0
+DTSTART;VALUE=DATE:20230320
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20230321
+URL:https://registrar.princeton.edu/events/2023/undergraduate-selection-pdf
+ -option-begins-600-am
+SUMMARY:Undergraduate Selection of P/D/F Option Begins at 6:00 am
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20190301T190951Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:3226:delta:0
+DTSTART;VALUE=DATE:20230330
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20230331
+URL:https://registrar.princeton.edu/events/2023/ab-sophomore-major-declarat
+ ion-period-begins
+SUMMARY:A.B. Sophomore Major Declaration Period Begins
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20230307T191854Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:3356:delta:0
+DTSTART;VALUE=DATE:20230407
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20230408
+URL:https://registrar.princeton.edu/events/2023/undergraduate-deadline-drop
+ -spring-term-courses-or-select-pdf-option-ends-500-pm
+SUMMARY:Undergraduate Deadline to Drop Spring Term Courses or Select P/D/F 
+ Option Ends at 5:00 pm
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20230206T190919Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:3231:delta:0
+DTSTART;VALUE=DATE:20230417
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20230418
+URL:https://registrar.princeton.edu/events/2023/ab-sophomore-major-declarat
+ ion-period-ends-500-pm
+SUMMARY:A.B. Sophomore Major Declaration Period Ends at 5:00 pm
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20230307T191839Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:3236:delta:0
+DTSTART;VALUE=DATE:20230417
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20230418
+URL:https://registrar.princeton.edu/events/2023/first-day-phd-general-exami
+ nations-0
+SUMMARY:First day of Ph.D. General Examinations 
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20190301T191605Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:3926:delta:0
+DTSTART;VALUE=DATE:20230417
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20230418
+URL:https://registrar.princeton.edu/events/2023/graduate-student-reenrollme
+ nt-opens
+SUMMARY:Graduate Student Reenrollment Opens
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20230413T130032Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:3246:delta:0
+DTSTART;VALUE=DATE:20230418
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20230419
+URL:https://registrar.princeton.edu/events/2023/junior-fall-term-course-sel
+ ection-begins-730-am-and-ends-1159-pm
+SUMMARY:Junior Fall Term Course Selection Begins at 7:30 am and Ends at 11:
+ 59 pm
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20220804T161933Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:3251:delta:0
+DTSTART;VALUE=DATE:20230419
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20230420
+URL:https://registrar.princeton.edu/events/2023/sophomore-fall-term-course-
+ selection-begins-730-am-and-ends-1159-pm
+SUMMARY:Sophomore Fall Term Course Selection Begins at 7:30 am and Ends at 
+ 11:59 pm
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20220804T161948Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:3256:delta:0
+DTSTART;VALUE=DATE:20230420
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20230421
+URL:https://registrar.princeton.edu/events/2023/first-year-fall-term-course
+ -selection-begins-730-am-and-ends-1159-pm
+SUMMARY:First-Year Fall Term Course Selection Begins at 7:30 am and Ends at
+  11:59 pm
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20220804T162003Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:3346:delta:0
+DTSTART;VALUE=DATE:20230428
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20230429
+URL:https://registrar.princeton.edu/events/2023/graduate-students-deadline-
+ spring-term-course-changes
+SUMMARY:Graduate Students Deadline for Spring Term Course Changes
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20190301T192219Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:5056:delta:0
+DTSTART;VALUE=DATE:20230428
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20230429
+URL:https://registrar.princeton.edu/events/2023/last-day-scheduled-classes
+SUMMARY:Last Day of Scheduled Classes
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20220802T203450Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:3931:delta:0
+DTSTART;VALUE=DATE:20230430
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20230501
+URL:https://registrar.princeton.edu/events/2023/deadline-graduate-student-r
+ eenrollment
+SUMMARY:Deadline for Graduate Student Reenrollment
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20190916T165429Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:3261:delta:0
+DTSTART;VALUE=DATE:20230501
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20230502
+URL:https://registrar.princeton.edu/events/2023/reading-period-begins
+SUMMARY:Reading Period Begins
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20190301T192526Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:3271:delta:0
+DTSTART;VALUE=DATE:20230501
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20230502
+URL:https://registrar.princeton.edu/events/2023/deadline-submitting-senior-
+ thesis
+SUMMARY:Deadline for Submitting Senior Thesis
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20190301T192428Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:3331:delta:0
+DTSTART;VALUE=DATE:20230501
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20230502
+URL:https://registrar.princeton.edu/events/2023/graduate-students-fall-term
+ -course-selection-begins
+SUMMARY:Graduate Students Fall Term Course Selection Begins
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20190312T122252Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:5082:delta:0
+DTSTART;VALUE=DATE:20230501
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20230502
+URL:https://registrar.princeton.edu/events/2023/undergraduate-adddrop-fall-
+ term-courses-begins-630-am
+SUMMARY:Undergraduate Add/Drop For Fall Term Courses Begins at 6:30 am
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20230106T160456Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:3276:delta:0
+DTSTART;VALUE=DATE:20230502
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20230503
+URL:https://registrar.princeton.edu/events/2023/deadline-submitting-junior-
+ independent-work
+SUMMARY:Deadline for Submitting Junior Independent Work
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20190301T192840Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:5087:delta:0
+DTSTART;VALUE=DATE:20230505
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20230506
+URL:https://registrar.princeton.edu/events/2023/undergraduate-adddrop-fall-
+ term-courses-ends-500-pm
+SUMMARY:Undergraduate Add/Drop For Fall Term Courses Ends at 5:00 pm
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20230206T191012Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:3266:delta:0
+DTSTART;VALUE=DATE:20230509
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20230510
+URL:https://registrar.princeton.edu/events/2023/reading-period-ends
+SUMMARY:Reading Period Ends
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20190301T193317Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:3281:delta:0
+DTSTART;VALUE=DATE:20230509
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20230510
+URL:https://registrar.princeton.edu/events/2023/deans-date-deadline-student
+ -submission-written-work
+SUMMARY:Dean's Date: Deadline for Student Submission of Written Work 
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20190301T193225Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:3336:delta:0
+DTSTART;VALUE=DATE:20230509
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20230510
+URL:https://registrar.princeton.edu/events/2023/graduate-students-course-se
+ lection-ends-500-pm-reopens-august-1-2023
+SUMMARY:Graduate Students Course Selection Ends at 5:00 pm (reopens August 
+ 1\, 2023)
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20230206T191033Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:3291:delta:0
+DTSTART;VALUE=DATE:20230510
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20230512
+URL:https://registrar.princeton.edu/events/2023/senior-departmentalcomprehe
+ nsive-examinations
+SUMMARY:Senior Departmental/Comprehensive Examinations
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20190312T122336Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:5091:delta:0
+DTSTART;VALUE=DATE:20230510
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20230511
+URL:https://registrar.princeton.edu/events/2023/take-home-final-exam-period
+ -begins
+SUMMARY:Take-Home Final Exam Period Begins
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20230202T155900Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:3286:delta:0
+DTSTART;VALUE=DATE:20230512
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20230519
+URL:https://registrar.princeton.edu/events/2023/spring-term-final-examinati
+ ons
+SUMMARY:Spring Term Final Examinations
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20190312T164116Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:3376:delta:0
+DTSTART;VALUE=DATE:20230516
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20230517
+URL:https://registrar.princeton.edu/events/2023/faculty-deadline-submission
+ -grades-undergraduate-courses-no-scheduled-final-examination
+SUMMARY:Faculty Deadline for Submission of Grades for Undergraduate Courses
+  with no Scheduled Final Examination or Take-Home Exercise
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20190301T193722Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:3371:delta:0
+DTSTART;VALUE=DATE:20230517
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20230518
+URL:https://registrar.princeton.edu/events/2023/deadline-submission-take-ho
+ me-exams-0
+SUMMARY:Deadline for Submission of Take-Home Exams
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20220418T193812Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:3241:delta:0
+DTSTART;VALUE=DATE:20230518
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20230519
+URL:https://registrar.princeton.edu/events/2023/last-day-phd-general-examin
+ ations-0
+SUMMARY:Last day of Ph.D. General Examinations 
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20190301T194149Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:3296:delta:0
+DTSTART;VALUE=DATE:20230518
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20230519
+URL:https://registrar.princeton.edu/events/2023/faculty-deadline-submission
+ -senior-thesis-and-senior-comprehensive-grades
+SUMMARY:Faculty Deadline for Submission of Senior Thesis and Senior Compreh
+ ensive Grades
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20190301T193824Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:3301:delta:0
+DTSTART;VALUE=DATE:20230522
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20230523
+URL:https://registrar.princeton.edu/events/2023/faculty-deadline-submission
+ -graduate-course-grades
+SUMMARY:Faculty Deadline for Submission of Graduate Course Grades
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20230307T164916Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:3341:delta:0
+DTSTART;VALUE=DATE:20230522
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20230523
+URL:https://registrar.princeton.edu/events/2023/faculty-deadline-submission
+ -grades-undergraduate-courses-0
+SUMMARY:Faculty Deadline for Submission of Grades for Undergraduate Courses
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20230307T164841Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:3306:delta:0
+DTSTART;VALUE=DATE:20230523
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20230524
+URL:https://registrar.princeton.edu/events/2023/faculty-deadline-submission
+ -grades-junior-independent-work-0
+SUMMARY:Faculty Deadline for Submission of Grades for Junior Independent Wo
+ rk
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20190301T194300Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:3381:delta:0
+DTSTART;VALUE=DATE:20230524
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20230525
+URL:https://registrar.princeton.edu/events/2023/honors-due-registrar-1200pm
+SUMMARY:Honors Due to Registrar at 12:00pm
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20190301T194727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:3311:delta:0
+DTSTART;VALUE=DATE:20230528
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20230529
+URL:https://registrar.princeton.edu/events/2023/baccalaureate
+SUMMARY:Baccalaureate
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20190301T194346Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:3316:delta:0
+DTSTART;VALUE=DATE:20230529
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20230530
+URL:https://registrar.princeton.edu/events/2023/class-day
+SUMMARY:Class Day
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20190301T194444Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:3321:delta:0
+DTSTART;VALUE=DATE:20230529
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20230530
+URL:https://registrar.princeton.edu/events/2023/graduate-school-hooding-and
+ -recognition-ceremony
+SUMMARY:Graduate School Hooding and Recognition Ceremony
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20220401T155729Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:3326:delta:0
+DTSTART;VALUE=DATE:20230530
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20230531
+URL:https://registrar.princeton.edu/events/2023/commencement-day
+SUMMARY:Commencement Day
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20190301T194638Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:3461:delta:0
+DTSTART;VALUE=DATE:20230801
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20230802
+URL:https://registrar.princeton.edu/events/2023/returning-graduate-students
+ -fall-2023-term-course-selection-continues
+SUMMARY:Returning Graduate Students: Fall 2023 term Course Selection Contin
+ ues
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20200115T201651Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:3566:delta:0
+DTSTART;VALUE=DATE:20230801
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20230802
+URL:https://registrar.princeton.edu/events/2023/returning-graduate-student-
+ academic-year-sign-begins-700-am
+SUMMARY:Returning Graduate Student Academic Year Sign-In begins at 7:00 a.m
+ .
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20200115T201651Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:3946:delta:0
+DTSTART;VALUE=DATE:20230820
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20230821
+URL:https://registrar.princeton.edu/events/2023/new-graduate-students-fall-
+ 2023-term-course-selection-begins
+SUMMARY:New Graduate students: Fall 2023 term course selection begins
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20200115T201651Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:3951:delta:0
+DTSTART;VALUE=DATE:20230820
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20230821
+URL:https://registrar.princeton.edu/events/2023/new-graduate-students-acade
+ mic-year-sign-begins-700-am
+SUMMARY:New Graduate Students: Academic Year Sign-In begins at 7:00 a.m.
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20200115T201651Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:3466:delta:0
+DTSTART;VALUE=DATE:20230828
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20230829
+URL:https://registrar.princeton.edu/events/2023/undergraduate-academic-year
+ -sign-begins-700-am
+SUMMARY:Undergraduate Academic Year Sign-In begins at 7:00 a.m.
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20200115T201651Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:3656:delta:0
+DTSTART;VALUE=DATE:20230830
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20230831
+URL:https://registrar.princeton.edu/events/2023/graduate-school-opening-add
+ ressorientation
+SUMMARY:Graduate School Opening Address/Orientation
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20200117T165420Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:3481:delta:0
+DTSTART;VALUE=DATE:20230903
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20230904
+URL:https://registrar.princeton.edu/events/2023/opening-exercises-universit
+ y-chapel
+LOCATION:University Chapel
+SUMMARY:Opening Exercises\, University Chapel
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20200115T201651Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:3476:delta:0
+DTSTART;VALUE=DATE:20230904
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20230905
+URL:https://registrar.princeton.edu/events/2023/undergraduate-academic-year
+ -sign-period-ends-1159-pm
+SUMMARY:Undergraduate Academic Year Sign-In Period Ends at 11:59 pm
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20200115T201651Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:3661:delta:0
+DTSTART;VALUE=DATE:20230904
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20230905
+URL:https://registrar.princeton.edu/events/2023/labor-day-holiday
+SUMMARY:Labor Day Holiday
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20200115T201651Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:3486:delta:0
+DTSTART;VALUE=DATE:20230905
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20230906
+URL:https://registrar.princeton.edu/events/2023/fall-term-classes-begin-8-a
+ m
+SUMMARY:Fall Term Classes Begin at 8 am
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20210730T164008Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:3491:delta:0
+DTSTART;VALUE=DATE:20230905
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20230906
+URL:https://registrar.princeton.edu/events/2023/undergraduate-adddrop-begin
+ s-630-am
+SUMMARY:Undergraduate Add/Drop Begins at  6:30 am
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20210730T163435Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:3571:delta:0
+DTSTART;VALUE=DATE:20230919
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20230920
+URL:https://registrar.princeton.edu/events/2023/undergraduate-deadline-addd
+ rop-courses-without-fee-ends-1159-pm-0
+SUMMARY:Undergraduate Deadline to Add/Drop Courses Without a Fee Ends at 11
+ :59 pm
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20200115T201651Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:3496:delta:0
+DTSTART;VALUE=DATE:20230925
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20230926
+URL:https://registrar.princeton.edu/events/2023/first-day-phd-general-exami
+ nations-1
+SUMMARY:First day of Ph.D. General Examinations 
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20200115T201651Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:3506:delta:0
+DTSTART;VALUE=DATE:20231009
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20231014
+URL:https://registrar.princeton.edu/events/2023/midterm-examination-week
+SUMMARY:Midterm Examination Week 
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20200115T201651Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:3501:delta:0
+DTSTART;VALUE=DATE:20231014
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20231015
+URL:https://registrar.princeton.edu/events/2023/last-day-phd-general-examin
+ ations-1
+SUMMARY:Last day of Ph.D. General Examinations 
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20200115T201651Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:3511:delta:0
+DTSTART;VALUE=DATE:20231014
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20231015
+URL:https://registrar.princeton.edu/events/2023/fall-recess-begins
+SUMMARY:Fall Recess Begins
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20200115T201651Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:3581:delta:0
+DTSTART;VALUE=DATE:20231022
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20231023
+URL:https://registrar.princeton.edu/events/2023/fall-recess-ends
+SUMMARY:Fall Recess Ends
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20200115T201651Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:3516:delta:0
+DTSTART;VALUE=DATE:20231023
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20231024
+URL:https://registrar.princeton.edu/events/2023/faculty-deadline-reporting-
+ fall-term-midterm-grades-due-1159-pm
+SUMMARY:Faculty Deadline for Reporting Fall Term Midterm Grades Due at 11:5
+ 9 pm
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20200115T201651Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:3576:delta:0
+DTSTART;VALUE=DATE:20231023
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20231024
+URL:https://registrar.princeton.edu/events/2023/classes-resume-0
+SUMMARY:Classes Resume 
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20200115T201651Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:3586:delta:0
+DTSTART;VALUE=DATE:20231023
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20231024
+URL:https://registrar.princeton.edu/events/2023/undergraduate-selection-pdf
+ -option-begins-600-am-0
+SUMMARY:Undergraduate Selection of P/D/F Option begins at 6:00 am
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20200115T201651Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:3641:delta:0
+DTSTART;VALUE=DATE:20231110
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20231111
+URL:https://registrar.princeton.edu/events/2023/undergraduate-deadline-drop
+ -fall-term-courses-or-select-pdf-option-ends-1159-pm
+SUMMARY:Undergraduate Deadline to Drop Fall Term Courses or Select P/D/F Op
+ tion Ends at 11:59 pm
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20200115T201651Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:3591:delta:0
+DTSTART;VALUE=DATE:20231121
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20231122
+URL:https://registrar.princeton.edu/events/2023/thanksgiving-recess-begins-
+ after-last-class
+SUMMARY:Thanksgiving Recess Begins after last class
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20200115T201651Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:3596:delta:0
+DTSTART;VALUE=DATE:20231126
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20231127
+URL:https://registrar.princeton.edu/events/2023/thanksgiving-recess-ends
+SUMMARY:Thanksgiving Recess Ends
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20200115T201651Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:3601:delta:0
+DTSTART;VALUE=DATE:20231127
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20231128
+URL:https://registrar.princeton.edu/events/2023/classes-resume-after-thanks
+ giving-recess
+SUMMARY:Classes Resume after Thanksgiving Recess
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20200115T201651Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:3521:delta:0
+DTSTART;VALUE=DATE:20231128
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20231129
+URL:https://registrar.princeton.edu/events/2023/senior-spring-term-course-s
+ election-begins-730-am-and-ends-1159-pm
+SUMMARY:Senior Spring Term Course Selection Begins at 7:30 am and Ends at 1
+ 1:59 pm
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20200115T201651Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:3606:delta:0
+DTSTART;VALUE=DATE:20231129
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20231130
+URL:https://registrar.princeton.edu/events/2023/junior-spring-term-course-s
+ election-begins-730-am-and-ends-1159-pm
+SUMMARY:Junior Spring Term Course Selection Begins at 7:30 am and Ends at 1
+ 1:59 pm
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20200115T201651Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:3526:delta:0
+DTSTART;VALUE=DATE:20231130
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20231201
+URL:https://registrar.princeton.edu/events/2023/sophomore-spring-term-cours
+ e-selection-begins-730-am-and-ends-1159-pm
+SUMMARY:Sophomore Spring Term Course Selection Begins at 7:30 am and Ends a
+ t 11:59 pm
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20200115T201651Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:3611:delta:0
+DTSTART;VALUE=DATE:20231201
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20231202
+URL:https://registrar.princeton.edu/events/2023/first-year-student-spring-t
+ erm-course-selection-begins-730-am-and-ends-1159-pm
+SUMMARY:First-Year Student Spring Term Course Selection Begins at 7:30 am a
+ nd Ends at 11:59 pm
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20200115T201651Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:3471:delta:0
+DTSTART;VALUE=DATE:20231207
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20231208
+URL:https://registrar.princeton.edu/events/2023/graduate-student-deadline-f
+ all-term-course-changes-ends-1159-pm
+SUMMARY:Graduate Student Deadline for Fall Term Course Changes Ends at 11:5
+ 9 pm
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20200115T201651Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:5061:delta:0
+DTSTART;VALUE=DATE:20231207
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20231208
+URL:https://registrar.princeton.edu/events/2023/last-day-scheduled-classes-
+ 0
+SUMMARY:Last Day of Scheduled Classes
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20220802T203528Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:3546:delta:0
+DTSTART;VALUE=DATE:20231208
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20231209
+URL:https://registrar.princeton.edu/events/2023/reading-period-begins-0
+SUMMARY:Reading Period Begins
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20200115T201651Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:3636:delta:0
+DTSTART;VALUE=DATE:20231208
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20231209
+URL:https://registrar.princeton.edu/events/2023/graduate-students-spring-te
+ rm-course-selection-begins-730-am
+SUMMARY:Graduate Students Spring Term Course Selection Begins at 7:30 am
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20200115T201651Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ps_events:3621:delta:0
+DTSTART;VALUE=DATE:20231215
+SEQUENCE:0
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20231216
+URL:https://registrar.princeton.edu/events/2023/reading-period-ends-0
+SUMMARY:Reading Period Ends
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20200115T201651Z
+END:VEVENT
+END:VCALENDAR
